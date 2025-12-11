@@ -2,3 +2,4 @@ Feature branch
 
 1.  1st commit
 2.  Rebased main branch and  2nd commit 
+3.  3rd commit 
